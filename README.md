@@ -3,8 +3,10 @@ An automated tool to convert and save your text into banner type text using figl
 
 How to use?
 
-Step 1 => Clone the repository to your device using 
-          git clone https://github.com/teq-book/banner-generator
+Step 1 => Clone the repository to your device using
+
+-> git clone https://github.com/teq-book/banner-generator
+_____________________________
 
 Step 2 => cd banner-generator
 
