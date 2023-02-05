@@ -35,7 +35,7 @@ else
 	echo -n -e "\n\n\n >> Enter the text : " ; read text
 	if [ -n "$text" ];
 	then
-		figlet "$text" > banner.txt
+		figlet -k "$text" > banner.txt
 		echo -e "\n    Converted Successfully...\n"
 		echo -e "\n$border2"
 		cat banner.txt
